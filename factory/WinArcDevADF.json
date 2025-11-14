@@ -1,0 +1,9 @@
+{
+	"name": "WinArcDevADF",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52358e37-bba6-4633-ab2a-d4045ef0af99",
+		"tenantId": "24b69280-77b3-43b4-b479-c83e7f4632cc"
+	}
+}
